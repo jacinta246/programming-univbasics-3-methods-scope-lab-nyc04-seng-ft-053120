@@ -15,5 +15,6 @@ def link
 end
 
 def all_phrases
-puts 
+  phrase = "It's-a me, Mario!"
+puts phrase
 end
